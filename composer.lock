@@ -1656,6 +1656,7 @@
                 "reflection",
                 "static"
             ],
+            "abandoned": "roave/better-reflection",
             "time": "2020-03-27T11:06:43+00:00"
         },
         {
@@ -4347,16 +4348,16 @@
         },
         {
             "name": "prestashop/productcomments",
-            "version": "v4.1.0",
+            "version": "v4.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PrestaShop/productcomments.git",
-                "reference": "2570d246ba8bd540b03b6c1e564b27e925e70d2d"
+                "reference": "c56e3e9495c4a0a9c1e7dc43e1bb0fcad2796dbf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PrestaShop/productcomments/zipball/2570d246ba8bd540b03b6c1e564b27e925e70d2d",
-                "reference": "2570d246ba8bd540b03b6c1e564b27e925e70d2d",
+                "url": "https://api.github.com/repos/PrestaShop/productcomments/zipball/c56e3e9495c4a0a9c1e7dc43e1bb0fcad2796dbf",
+                "reference": "c56e3e9495c4a0a9c1e7dc43e1bb0fcad2796dbf",
                 "shasum": ""
             },
             "require": {
@@ -4388,7 +4389,7 @@
             ],
             "description": "PrestaShop module productcomments",
             "homepage": "https://github.com/PrestaShop/productcomments",
-            "time": "2020-08-11T15:16:38+00:00"
+            "time": "2020-11-16T13:13:36+00:00"
         },
         {
             "name": "prestashop/ps_banner",
