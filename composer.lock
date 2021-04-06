@@ -1091,6 +1091,7 @@
                 "cache",
                 "caching"
             ],
+            "abandoned": true,
             "time": "2019-11-29T11:22:01+00:00"
         },
         {
@@ -1656,6 +1657,7 @@
                 "reflection",
                 "static"
             ],
+            "abandoned": "roave/better-reflection",
             "time": "2020-03-27T11:06:43+00:00"
         },
         {
@@ -4716,16 +4718,16 @@
         },
         {
             "name": "prestashop/ps_emailsubscription",
-            "version": "v2.6.0",
+            "version": "v2.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PrestaShop/ps_emailsubscription.git",
-                "reference": "d4ef6d74fe3dd3f2f3a0cd7c7c6b92bf0f9277f6"
+                "reference": "3908c6cfed00ebb4be1302a876885439d9f1ae8c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PrestaShop/ps_emailsubscription/zipball/d4ef6d74fe3dd3f2f3a0cd7c7c6b92bf0f9277f6",
-                "reference": "d4ef6d74fe3dd3f2f3a0cd7c7c6b92bf0f9277f6",
+                "url": "https://api.github.com/repos/PrestaShop/ps_emailsubscription/zipball/3908c6cfed00ebb4be1302a876885439d9f1ae8c",
+                "reference": "3908c6cfed00ebb4be1302a876885439d9f1ae8c",
                 "shasum": ""
             },
             "require": {
@@ -4744,7 +4746,7 @@
             ],
             "description": "PrestaShop module ps_emailsubscription",
             "homepage": "https://github.com/PrestaShop/ps_emailsubscription",
-            "time": "2020-06-18T06:13:36+00:00"
+            "time": "2021-03-31T10:29:23+00:00"
         },
         {
             "name": "prestashop/ps_facetedsearch",
@@ -5247,6 +5249,7 @@
             ],
             "description": "PrestaShop module sekeywords",
             "homepage": "https://github.com/PrestaShop/sekeywords",
+            "abandoned": true,
             "time": "2017-01-30T15:46:25+00:00"
         },
         {
@@ -5599,6 +5602,7 @@
             ],
             "description": "PrestaShop module statsequipment",
             "homepage": "https://github.com/PrestaShop/statsequipment",
+            "abandoned": true,
             "time": "2017-01-31T17:01:36+00:00"
         },
         {
@@ -5663,6 +5667,7 @@
             ],
             "description": "PrestaShop module statslive",
             "homepage": "https://github.com/PrestaShop/statslive",
+            "abandoned": true,
             "time": "2020-03-24T08:54:00+00:00"
         },
         {
@@ -5727,6 +5732,7 @@
             ],
             "description": "PrestaShop module statsorigin",
             "homepage": "https://github.com/PrestaShop/statsorigin",
+            "abandoned": true,
             "time": "2018-01-29T19:17:31+00:00"
         },
         {
@@ -5951,6 +5957,7 @@
             ],
             "description": "PrestaShop module statsvisits",
             "homepage": "https://github.com/PrestaShop/statsvisits",
+            "abandoned": true,
             "time": "2018-01-29T18:08:52+00:00"
         },
         {
@@ -6507,6 +6514,7 @@
                 }
             ],
             "description": "A security checker for your composer.lock",
+            "abandoned": "https://github.com/fabpot/local-php-security-checker",
             "time": "2019-11-01T13:20:14+00:00"
         },
         {
@@ -10518,12 +10526,12 @@
             "version": "1.9.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/webmozart/assert.git",
+                "url": "https://github.com/webmozarts/assert.git",
                 "reference": "bafc69caeb4d49c39fd0779086c03a3738cbb389"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozart/assert/zipball/bafc69caeb4d49c39fd0779086c03a3738cbb389",
+                "url": "https://api.github.com/repos/webmozarts/assert/zipball/bafc69caeb4d49c39fd0779086c03a3738cbb389",
                 "reference": "bafc69caeb4d49c39fd0779086c03a3738cbb389",
                 "shasum": ""
             },
